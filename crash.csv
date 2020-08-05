@@ -1,0 +1,4 @@
+support,itemsets,length
+0.10563607085346216,"frozenset({'Accident_Severity=Slight', 'Light_Conditions=Darkness - lights lit', 'Number_of_Casualties=1'})",3
+0.4505636070853462,"frozenset({'Accident_Severity=Slight', 'Light_Conditions=Daylight', 'Number_of_Casualties=1'})",3
+0.13268921095008052,"frozenset({'Light_Conditions=Daylight', 'Number_of_Casualties=2', 'Accident_Severity=Slight'})",3
