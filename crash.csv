@@ -1,0 +1,10 @@
+Crash_Ref_Number,Crash_Year,Daytime,Accident_Severity,Light_Conditions,Number_of_Casualties,Road_Surface_Conditions,Road_Type,Speed_limit,Urban_or_Rural_Area,Weather_Conditions,Crash_Year,Age_of_Vehicle,Junction_Location,Vehicle_Manoeuvre,First_Point_of_Impact
+4,2005,office hours (10-15),Slight,Daylight,1,Wet or damp,Single carriageway,30.0,Urban,Raining no high winds,2005,1.0,Not at or within 20 metres of junction,Moving off,Did not impact
+5,2005,office hours (10-15),Slight,Daylight,1,Wet or damp,Single carriageway,30.0,Urban,Raining no high winds,2005,2.0,Not at or within 20 metres of junction,Going ahead other,Did not impact
+7,2005,evening (19-23),Slight,Darkness - lights lit,1,Dry,Single carriageway,30.0,Urban,Fine no high winds,2005,4.0,Approaching junction or waiting/parked at junction approach,Parked,Back
+8,2005,afternoon rush (15-19),Slight,Daylight,2,Dry,Dual carriageway,30.0,Urban,Fine no high winds,2005,16.0,Not at or within 20 metres of junction,Going ahead other,Front
+9,2005,night (23-5),Slight,Darkness - lights lit,1,Dry,Single carriageway,30.0,Urban,Fine no high winds,2005,6.0,Mid Junction - on roundabout or on main road,Going ahead other,Front
+11,2005,morning rush (5-10),Slight,Darkness - lights lit,1,Wet or damp,One way street,30.0,Urban,Raining no high winds,2005,2.0,Mid Junction - on roundabout or on main road,Going ahead other,Front
+12,2005,morning rush (5-10),Slight,Darkness - lights lit,1,Wet or damp,One way street,30.0,Urban,Raining no high winds,2005,4.0,Mid Junction - on roundabout or on main road,Turning left,Did not impact
+13,2005,office hours (10-15),Slight,Daylight,2,Dry,Dual carriageway,30.0,Urban,Fine no high winds,2005,2.0,Not at or within 20 metres of junction,Going ahead other,Front
+15,2005,morning rush (5-10),Slight,Daylight,1,Dry,Single carriageway,30.0,Urban,Fine no high winds,2005,7.0,Mid Junction - on roundabout or on main road,Turning right,Offside
