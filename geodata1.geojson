@@ -1,0 +1,358 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "VIN": "VF1JZ49BJ55440744",
+        "timestamp": "1562079905",
+        "Trip": "trip0",
+        "driving_event1": "constant",
+        "driving_event2": "normal_braking",
+        "driving_event": "constant,normal_braking",
+        "count": "3868"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.375478,
+          43.843819
+        ]
+      }
+    },
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "VIN": "VF1JZ49BJ55440744",
+        "timestamp": "1562079935",
+        "Trip": "trip0",
+        "driving_event1": "constant",
+        "driving_event2": "normal_speed",
+        "driving_event": "constant,normal_speed",
+        "count": "3868"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.373128,
+          43.844318
+        ]
+      }
+    },
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "VIN": "VF1JZ49BJ55440744",
+        "timestamp": "1562079986",
+        "Trip": "trip0",
+        "driving_event1": "constant",
+        "driving_event2": "normal_braking",
+        "driving_event": "constant,normal_braking",
+        "count": "3868"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.365056,
+          43.841022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "VIN": "VF1JZ49BJ55440744",
+        "timestamp": "1562079990",
+        "Trip": "trip0",
+        "driving_event1": "constant",
+        "driving_event2": "normal_braking",
+        "driving_event": "constant,normal_braking",
+        "count": "3868"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.364492,
+          43.840725
+        ]
+      }
+    },
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "VIN": "VF1JZ49BJ55440744",
+        "timestamp": "1562080025",
+        "Trip": "trip0",
+        "driving_event1": "constant",
+        "driving_event2": "normal_braking",
+        "driving_event": "constant,normal_braking",
+        "count": "3868"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.363086,
+          43.842186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "VIN": "VF1JZ49BJ55440744",
+        "timestamp": "1562080031",
+        "Trip": "trip0",
+        "driving_event1": "constant",
+        "driving_event2": "normal_braking",
+        "driving_event": "constant,normal_braking",
+        "count": "3868"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.363322,
+          43.842197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "VIN": "VF1JZ49BJ55440744",
+        "timestamp": "1562080036",
+        "Trip": "trip0",
+        "driving_event1": "normal_acceleration",
+        "driving_event2": "normal_braking",
+        "driving_event": "normal_acceleration,normal_braking",
+        "count": "21574"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.363358,
+          43.842182
+        ]
+      }
+    },
+    
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "VIN": "VF1JZ49BJ55440744",
+        "timestamp": "1562087982",
+        "Trip": "trip1",
+        "driving_event1": "normal_acceleration",
+        "driving_event2": "normal_braking",
+        "driving_event": "normal_acceleration,normal_braking",
+        "count": "21574"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.362797,
+          43.842155
+        ]
+      }
+    },
+   
+    {
+      "type": "Feature",
+      "properties": {
+        "VIN": "VF1JZ49BJ55440744",
+        "timestamp": "1562088072",
+        "Trip": "trip1",
+        "driving_event1": "normal_acceleration",
+        "driving_event2": "normal_braking",
+        "driving_event": "normal_acceleration,normal_braking",
+        "count": "21574"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3578059999999998,
+          43.849358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "VIN": "VF1JZ49BJ55440744",
+        "timestamp": "1562088077",
+        "Trip": "trip1",
+        "driving_event1": "normal_acceleration",
+        "driving_event2": "normal_braking",
+        "driving_event": "normal_acceleration,normal_braking",
+        "count": "21574"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.357533,
+          43.849663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "VIN": "VF1JZ49BJ55440744",
+        "timestamp": "1562088082",
+        "Trip": "trip1",
+        "driving_event1": "normal_acceleration",
+        "driving_event2": "normal_braking",
+        "driving_event": "normal_acceleration,normal_braking",
+        "count": "21574"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3570950000000002,
+          43.84993400000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "VIN": "VF1JZ49BJ55440744",
+        "timestamp": "1562088087",
+        "Trip": "trip1",
+        "driving_event1": "normal_acceleration",
+        "driving_event2": "normal_braking",
+        "driving_event": "normal_acceleration,normal_braking",
+        "count": "21574"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.356783,
+          43.850105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "VIN": "VF1JZ49BJ55440744",
+        "timestamp": "1562088092",
+        "Trip": "trip1",
+        "driving_event1": "normal_acceleration",
+        "driving_event2": "normal_braking",
+        "driving_event": "normal_acceleration,normal_braking",
+        "count": "21574"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.356528,
+          43.850277
+        ]
+      }
+    },
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "VIN": "VF1JZ49BJ55440744",
+        "timestamp": "1562088299",
+        "Trip": "trip2",
+        "driving_event1": "normal_acceleration",
+        "driving_event2": "normal_speed",
+        "driving_event": "normal_acceleration,normal_speed",
+        "count": "21574"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.348342,
+          43.853218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "VIN": "VF1JZ49BJ55440744",
+        "timestamp": "1562088304",
+        "Trip": "trip2",
+        "driving_event1": "normal_acceleration",
+        "driving_event2": "normal_speed",
+        "driving_event": "normal_acceleration,normal_speed",
+        "count": "21574"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.347472,
+          43.853653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "VIN": "VF1JZ49BJ55440744",
+        "timestamp": "1562088309",
+        "Trip": "trip2",
+        "driving_event1": "normal_acceleration",
+        "driving_event2": "normal_speed",
+        "driving_event": "normal_acceleration,normal_speed",
+        "count": "21574"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.346583,
+          43.854103
+        ]
+      }
+    },
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "VIN": "VF1JZ49BJ55440744",
+        "timestamp": "1562088369",
+        "Trip": "trip2",
+        "driving_event1": "normal_acceleration",
+        "driving_event2": "normal_speed",
+        "driving_event": "normal_acceleration,normal_speed",
+        "count": "21574"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.333986,
+          43.8619
+        ]
+      }
+    },
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "VIN": "VF1JZ49BJ55440744",
+        "timestamp": "1562088420",
+        "Trip": "trip2",
+        "driving_event1": "normal_acceleration",
+        "driving_event2": "normal_speed",
+        "driving_event": "normal_acceleration,normal_speed",
+        "count": "21574"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.325847,
+          43.865318
+        ]
+      }
+    }
+    
+  ]
+}
+
