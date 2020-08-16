@@ -1,0 +1,10 @@
+Crash_Ref_Number,Daytime,Accident_Severity,Light_Conditions,Number_of_Casualties,Road_Surface_Conditions,Road_Type,Speed_limit,Urban_or_Rural_Area,Weather_Conditions,Vehicle_Manoeuvre,First_Point_of_Impact
+4,office hours (10-15),Slight,Daylight,1,Wet or damp,Single carriageway,30.0,Urban,Raining no high winds,Moving off,Did not impact
+5,office hours (10-15),Slight,Daylight,1,Wet or damp,Single carriageway,30.0,Urban,Raining no high winds,Going ahead other,Did not impact
+7,evening (19-23),Slight,Darkness - lights lit,1,Dry,Single carriageway,30.0,Urban,Fine no high winds,Parked,Back
+8,afternoon rush (15-19),Slight,Daylight,2,Dry,Dual carriageway,30.0,Urban,Fine no high winds,Going ahead other,Front
+9,night (23-5),Slight,Darkness - lights lit,1,Dry,Single carriageway,30.0,Urban,Fine no high winds,Going ahead other,Front
+11,morning rush (5-10),Slight,Darkness - lights lit,1,Wet or damp,One way street,30.0,Urban,Raining no high winds,Going ahead other,Front
+12,morning rush (5-10),Slight,Darkness - lights lit,1,Wet or damp,One way street,30.0,Urban,Raining no high winds,Turning left,Did not impact
+13,office hours (10-15),Slight,Daylight,2,Dry,Dual carriageway,30.0,Urban,Fine no high winds,Going ahead other,Front
+15,morning rush (5-10),Slight,Daylight,1,Dry,Single carriageway,30.0,Urban,Fine no high winds,Turning right,Offside
