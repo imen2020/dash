@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Crash_Ref_Numbe": "4",
+        " Daytime": "office hours (10-15)",
+        "Accident_Severity": "Slight",
+        "Light_Conditions": "Daylight",
+        "Number_of_Casualties": "1",
+        "Road_Surface_Conditions": "Daylight",
+        "Speed_limit": "30",
+        "Vehicle_Manoeuvre": "Moving off"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.375478, 43.843819]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "Crash_Ref_Numbe": "11",
+        " Daytime": "morning rush (5-10)",
+        "Accident_Severity": "Slight",
+        "Light_Conditions": "Darkness - lights lit",
+        "Number_of_Casualties": "1",
+        "Road_Surface_Conditions": "Dry",
+        "Speed_limit": "30",
+        "Vehicle_Manoeuvre": "Going ahead other"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.368867, 43.842205]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "Crash_Ref_Numbe": "9",
+        " Daytime": "night (23-5)",
+        "Accident_Severity": "Slight",
+        "Light_Conditions": "Darkness - lights lit",
+        "Number_of_Casualties": "1",
+        "Road_Surface_Conditions": "Dry",
+        "Speed_limit": "30",
+        "Vehicle_Manoeuvre": "Going ahead other"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.364267, 43.840469]
+      }
+    }
+  ]
+}
