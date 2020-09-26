@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Crash_Ref_Numbe": "4",
+        " Daytime": "office hours (10-15)",
+        "Accident_Severity": "Slight",
+        "Light_Conditions": "Daylight",
+        "Number_of_Casualties": "1",
+        "Road_Surface_Conditions": "Daylight",
+        "Speed_limit": "30",
+        "Vehicle_Manoeuvre": "Moving off"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.375478, 43.843819]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "VIN": "VF1JZ49BJ55440744",
+        "timestamp": "1562088440",
+        "Trip": "trip2",
+        "driving_event1": "normal_acceleration",
+        "driving_event2": "normal_speed",
+        "driving_event": "normal_acceleration,normal_speed",
+        "Road_rule": "Respected"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.323483, 43.868159999999996]
+      }
+    }
+  ]
+}
